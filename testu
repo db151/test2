@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]non disponibile[/COLOR] 
-#EXTINF:0,test video
-https://www.dropbox.com/s/10ixwd6rub5nygo/Video%20non%20disponibil.avi?dl
+#EXTINF:-1 group-title="CREDITS" tvg-logo="000.png",[COLOR blue][B]Infogw[/B] • [B]25/06/2017[/B] 13:07h[/COLOR]
+https://dl.dropbox.com/s/x0p9zhh5bk5dr69/INFORMATIC%20GLOBAL%20WORLD-INTRO.mp4
