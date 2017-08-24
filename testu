@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="CREDITS" tvg-logo="000.png",[COLOR blue][B]Infogw[/B] • [B]25/06/2017[/B] 13:07h[/COLOR]
+https://dl.dropbox.com/s/x0p9zhh5bk5dr69/INFORMATIC%20GLOBAL%20WORLD-INTRO.mp4
+
+#EXTINF:-1 group-title="CREDITS" tvg-logo="000.png",Ringrazia! [COLOR GREEN]>[/COLOR] [COLOR grey]paypal.me/infogw[/COLOR]
+paypal.me/infogw
 
 #EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="001.png",Rai 1
-https://www.youtube.com/watch?v=1Clu22DnUXk
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="002.png",Rai 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="003.png",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117
